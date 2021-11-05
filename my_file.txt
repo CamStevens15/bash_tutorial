@@ -19,3 +19,4 @@ Beedrill	Bug	Poison
 Pidgeot	Normal	Flying
 Weezer  Strange	Flying	Poison
 What	Bug	Fire	Flying
+Blood	Grass	Poison	Flying
